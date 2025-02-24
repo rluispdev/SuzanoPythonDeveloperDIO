@@ -10,3 +10,5 @@ while opcao != 0:
         print("Sair")
     else:
         print("Opção inválida!")
+
+        
